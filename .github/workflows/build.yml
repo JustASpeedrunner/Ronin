@@ -49,7 +49,7 @@ jobs:
       - name: Cleanup root Ronin repository files
         working-directory: ronin
         run: |
-          rm -rf .git .github .gitignore *.md LICENSE thunderstore .ci.env.example r2ds.bat wsock32.dll
+          rm -rf .git .github .gitignore *.md LICENSE thunderstore .ci.env.example r2ds.bat wsock32.dll assets
       - name: Upload
         uses: actions/upload-artifact@v3
         with:
