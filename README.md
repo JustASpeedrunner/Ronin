@@ -11,6 +11,8 @@ Ronin is a speedrun client for speedrunners to speedrun more speedily.
 
 Simply drag & drop all the files from the `Ronin.release.vX.X.X.zip` into your main Titanfall2 directory
 
+You can add the Launcher to your Steam library by clicking the `[+] Add a Game` -> `Add a Non-Steam Game` and then add the executable. You can also give it extra launch options through Steam that way
+
 ## Development
 
 Northstar's development is split into 2 repositories:
