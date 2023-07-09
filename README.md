@@ -1,37 +1,25 @@
-# Northstar
+![](https://raw.githubusercontent.com/TF2SR/Ronin/main/assets/ronin-banner.jpg)
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/R2Northstar/Northstar)](https://github.com/R2Northstar/Northstar/releases)
-![GitHub release downloads (latest by date)](https://img.shields.io/github/downloads/R2Northstar/Northstar/latest/total)
-[![Join the chat at Discord](https://img.shields.io/badge/chat-on%20discord-7289DA.svg)](https://northstar.tf/discord)
-[![Read the wiki](https://img.shields.io/badge/wiki-GitBook-important)](https://r2northstar.gitbook.io)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/TF2SR/Ronin?color=49fcb4&style=for-the-badge)](https://github.com/TF2SR/Ronin/releases)
+[![Join the chat at Discord](https://img.shields.io/badge/tf2sr-discord-7289DA.svg?style=for-the-badge)](https://northstar.tf/discord)
 
-Northstar is a modding framework client that allows users to host their own Titanfall 2 servers using custom scripts and assets to create custom content, as well as being able to host vanilla content.
+Ronin is a speedrun client for speedrunners to speedrun more speedily.
 
-<p align="center"><strong>
-<a href="https://r2northstar.gitbook.io/r2northstar-wiki/installing-northstar/basic-setup">Installation</a> | <a href="https://r2northstar.gitbook.io/r2northstar-wiki/installing-northstar/troubleshooting">Troubleshooting</a> | <a href="https://r2northstar.gitbook.io/">Wiki</a>
-</strong></p>
+[![Download](https://img.shields.io/badge/download-49fcb4?style=for-the-badge)](https://github.com/TF2SR/Ronin/releases)
+
+## Installation
+
+Simply drag & drop all the files from the `Ronin.release.vX.X.X.zip` into your main Titanfall2 directory
 
 ## Development
 
-Northstar's development is split into 6 repositories:
+Northstar's development is split into 2 repositories:
 
-1. [NorthstarLauncher](https://github.com/R2Northstar/NorthstarLauncher) (Code for the C++ hook DLL)
-1. [NorthstarMods](https://github.com/R2Northstar/NorthstarMods) (Code for the squirrel mods responsible for server gamelogic recreation and custom content)
-1. [NorthstarStubs](https://github.com/R2Northstar/NorthstarStubs) (D3D11 and GFSDK stubs for the Northstar dedicated server)
-1. [NorthstarNavs](https://github.com/R2Northstar/NorthstarNavs) (Custom navmesh files used for AI navigation)
-1. [NorthstarDiscordRPC](https://github.com/R2Northstar/NorthstarDiscordRPC) (Discord RPC plugin)
-1. [Atlas](https://github.com/R2Northstar/Atlas) (Backend API for server browser, player authentication, and persistence)
-
-The documentation is split into three repositories:
-1. [NorthstarTF](https://github.com/R2Northstar/NorthstarTF) (Main website)
-1. [NorthstarWiki](https://github.com/R2Northstar/NorthstarWiki) (Wiki covering installation, hosting and configuration of Northstar)
-1. [ModdingDocs](https://github.com/R2Northstar/ModdingDocs) (Guides and tutorials on how to mod using Northstar)
+1. [RoninLauncher](https://github.com/TF2SR/RoninLauncher) (Code for the C++ hook DLL)
+1. [RoninMods](https://github.com/TF2SR/RoninMods) (Code for the squirrel mods that add menus & other features)
 
 ## Special Thanks
 
-Thanks to everyone that's put up with me and helped out with this project, it's been a fun passion project I've had throughout 2021 so releasing it is pretty cathartic. Specifically: 
-
-- Thanks to the Icepick developers for making the Icepick, I initially forked it for earlier versions of Northstar and it was a great base to experiment with stuff on before moving to the custom launcher.
-- Thanks to everyone on R5R team for giving me advice on some later parts of development.  
-- Thanks to everyone in the testing server for putting up with me and helping find bugs.  
-- Thanks to everyone else that's helped, gave advice, all that.
+Thanks to everyone in the NorthstarTF Discord that helped me out and answered all my silly questions about how to make things<br>
+Thanks to Taskinoz for laying the groundwork that taught me how to do basic Squirrel mods<br>
+Thanks to Fzzy for wedging through C++ hell for me
