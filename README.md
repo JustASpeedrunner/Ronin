@@ -7,6 +7,10 @@ Ronin is a speedrun client for speedrunners to speedrun more speedily.
 
 [![Download](https://img.shields.io/badge/download-49fcb4?style=for-the-badge)](https://github.com/TF2SR/Ronin/releases)
 
+#### Transitioning from SRMM?
+
+SRMM and Ronin aren't fundamentally incompatible, but they might end up clashing in weird ways. So to uninstall SRMM, download the [Uninstall-SRMM-Carepackage](https://drive.google.com/file/d/1-qbEkztYeT4r4YmUWHthvpY8Wsm3gx8x/view?usp=sharing) and follow the instructions written in the `README.txt`
+
 ## Installation
 
 Simply drag & drop all the files from the `Ronin.release.vX.X.X.zip` into your main Titanfall2 directory
@@ -24,4 +28,6 @@ Northstar's development is split into 2 repositories:
 
 Thanks to everyone in the NorthstarTF Discord that helped me out and answered all my silly questions about how to make things<br>
 Thanks to Taskinoz for laying the groundwork that taught me how to do basic Squirrel mods<br>
-Thanks to Fzzy for wedging through C++ hell for me
+Thanks to Fzzy for wedging through C++ hell for me<br>
+Thanks to Elad for making all of the squirrel things I am too silly for<br>
+Thanks to Dorito for inventing the color green
