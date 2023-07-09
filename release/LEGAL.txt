@@ -1,12 +1,12 @@
 This file contains licenses and copyright notices of the Northstar client, and
 third-party libraries and software utilized by it.
 
-NORTHSTAR CLIENT
+RONIN CLIENT
 ================
 
 MIT License
 
-Copyright (c) 2021 R2Northstar
+Copyright (c) 2023 TF2SR Ronin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
