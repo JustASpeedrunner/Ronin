@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/TF2SR/Ronin/main/assets/ronin-banner.jpg)
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/TF2SR/Ronin?color=49fcb4&style=for-the-badge)](https://github.com/TF2SR/Ronin/releases)
-[![Join the chat at Discord](https://img.shields.io/badge/tf2sr-discord-7289DA.svg?style=for-the-badge)](https://northstar.tf/discord)
+[![Join the chat at Discord](https://img.shields.io/badge/tf2sr-discord-7289DA.svg?style=for-the-badge)](https://discord.com/invite/P3JKjfx4uZ)
 
 Ronin is a speedrun client for speedrunners to speedrun more speedily.
 
