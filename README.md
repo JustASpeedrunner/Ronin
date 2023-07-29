@@ -23,11 +23,3 @@ Northstar's development is split into 2 repositories:
 
 1. [RoninLauncher](https://github.com/TF2SR/RoninLauncher) (Code for the C++ hook DLL)
 1. [RoninMods](https://github.com/TF2SR/RoninMods) (Code for the squirrel mods that add menus & other features)
-
-## Special Thanks
-
-Thanks to everyone in the NorthstarTF Discord that helped me out and answered all my silly questions about how to make things<br>
-Thanks to Taskinoz for laying the groundwork that taught me how to do basic Squirrel mods<br>
-Thanks to Fzzy for wedging through C++ hell for me<br>
-Thanks to Elad for making all of the squirrel things I am too silly for<br>
-Thanks to Dorito for inventing the color green
