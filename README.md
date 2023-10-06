@@ -18,8 +18,6 @@ Simply drag & drop all the files from the `Ronin.release.vX.X.X.zip` into your m
 You can add the Launcher to your Steam library by clicking the `[+] Add a Game` -> `Add a Non-Steam Game` and then add the executable. You can also give it extra launch options through Steam that way
 
 ## Development
-
-Northstar's development is split into 2 repositories:
-
+Ronin's development is split into 2 repositories:
 1. [RoninLauncher](https://github.com/TF2SR/RoninLauncher) (Code for the C++ hook DLL)
 1. [RoninMods](https://github.com/TF2SR/RoninMods) (Code for the squirrel mods that add menus & other features)
